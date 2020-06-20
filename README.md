@@ -1,3 +1,5 @@
+<img width="782" alt="Screenshot 2020-06-20 at 10 23 54 AM" src="https://user-images.githubusercontent.com/15340336/85192579-a7736f00-b2e0-11ea-84d0-f9184888cc8c.png">
+
 # flappy-bird
 A simple react application to simulate the famous flappy bird game
 
